@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.5\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-28 20:50+0200\n"
+"POT-Creation-Date: 2018-01-02 16:31+0100\n"
 "PO-Revision-Date: 2011-07-06 01:55+0200\n"
 "Last-Translator: Riku the Ronin <pablo.recioquijano@alum.uca.es>\n"
 "Language-Team: Spanish <>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../data/glade/quickGame.glade.h:2 ../data/glade/humanEsDialog.glade.h:2
+#: ../data/glade/humanEsDialog.glade.h:17 ../data/glade/quickGame.glade.h:9
 #, no-c-format
 msgid "%VALUE%"
 msgstr "%VALUE%"
@@ -28,11 +28,11 @@ msgstr "%VALUE%"
 msgid "%content%"
 msgstr "%content%"
 
-#: ../data/glade/testResults.glade.h:1
+#: ../data/glade/testResults.glade.h:9
 msgid "<b>@value@</b>"
 msgstr "<b>@value@</b>"
 
-#: ../data/glade/settingsDialog.glade.h:1
+#: ../data/glade/settingsDialog.glade.h:5
 msgid "<b>Auto play mode: time between turns</b> (ms)"
 msgstr "<b>Avance automático: tiempo entre turnos</b> (ms)"
 
@@ -40,15 +40,15 @@ msgstr "<b>Avance automático: tiempo entre turnos</b> (ms)"
 msgid "<b>Cancel competition?</b>"
 msgstr "<b>¿Cancelar competición?</b>"
 
-#: ../data/glade/results.glade.h:1
+#: ../data/glade/results.glade.h:2
 msgid "<b>Classification</b>"
 msgstr "<b>Clasificación</b>"
 
-#: ../data/glade/humanEsDialog.glade.h:3
+#: ../data/glade/humanEsDialog.glade.h:10
 msgid "<b>Computer team</b>"
 msgstr "<b>Equipo de la máquina</b>"
 
-#: ../data/glade/contest.glade.h:1
+#: ../data/glade/contest.glade.h:6
 msgid "<b>Contest format</b>"
 msgstr "<b>Formato de la competición</b>"
 
@@ -60,31 +60,31 @@ msgstr "<b>Directorio correcto</b>"
 msgid "<b>Full path</b>: "
 msgstr "<b>Ruta completa</b>: "
 
-#: ../data/glade/contest.glade.h:2
+#: ../data/glade/contest.glade.h:10
 msgid "<b>Generals</b>"
 msgstr "<b>Generales</b>"
 
-#: ../data/glade/humanEsDialog.glade.h:4
+#: ../data/glade/humanEsDialog.glade.h:5
 msgid "<b>Human team</b>"
 msgstr "<b>Equipo Humano</b>"
 
-#: ../data/glade/testDialog.glade.h:1
+#: ../data/glade/testDialog.glade.h:5
 msgid "<b>Main expert system</b>"
 msgstr "<b>Sistema experto principal</b>"
 
-#: ../data/glade/results.glade.h:2
+#: ../data/glade/results.glade.h:4
 msgid "<b>Next matches</b>"
 msgstr "<b>Siguientes encuentros</b>"
 
-#: ../data/glade/testDialog.glade.h:2
+#: ../data/glade/testDialog.glade.h:10
 msgid "<b>Options</b>"
 msgstr "<b>Opciones</b>"
 
-#: ../data/glade/settingsDialog.glade.h:2
+#: ../data/glade/settingsDialog.glade.h:3
 msgid "<b>Path to expert systems</b>"
 msgstr "<b>Ruta a los sistemas expertos</b>"
 
-#: ../data/glade/settingsDialog.glade.h:3
+#: ../data/glade/settingsDialog.glade.h:2
 msgid "<b>Path to previous game log files</b>"
 msgstr "<b>Ruta a los logs de partidas antiguas</b>"
 
@@ -92,20 +92,20 @@ msgstr "<b>Ruta a los logs de partidas antiguas</b>"
 msgid "<b>Results</b>"
 msgstr "<b>Resultados</b>"
 
-#: ../data/glade/testDialog.glade.h:3 ../data/glade/contest.glade.h:3
-#: ../data/glade/tree.glade.h:1
+#: ../data/glade/testDialog.glade.h:11 ../data/glade/contest.glade.h:12
+#: ../data/glade/tree.glade.h:2
 msgid "<b>Selected expert systems</b>"
 msgstr "<b>Selecciona sistema experto</b>"
 
-#: ../data/glade/quickGame.glade.h:3 ../data/glade/humanEsDialog.glade.h:5
+#: ../data/glade/humanEsDialog.glade.h:13 ../data/glade/quickGame.glade.h:23
 msgid "<b>Settings</b>"
 msgstr "<b>Configuración</b>"
 
-#: ../data/glade/quickGame.glade.h:4
+#: ../data/glade/quickGame.glade.h:14
 msgid "<b>Team A</b>"
 msgstr "<b>Equipo A</b>"
 
-#: ../data/glade/quickGame.glade.h:5
+#: ../data/glade/quickGame.glade.h:18
 msgid "<b>Team B</b>"
 msgstr "<b>Equipo B</b>"
 
@@ -113,7 +113,7 @@ msgstr "<b>Equipo B</b>"
 msgid "Active music on the board"
 msgstr "Activar la música en el tablero"
 
-#: ../data/glade/main.glade.h:1
+#: ../data/glade/main.glade.h:11
 msgid ""
 "Ampliación del proyecto Resistencia en Cádiz: 1812,\n"
 "una aplicación para el desarrollo y la enseñanza\n"
@@ -129,7 +129,7 @@ msgstr ""
 msgid "Are you sure to cancel the entire competition?"
 msgstr "¿Está seguro de cancelar la competición?"
 
-#: ../data/glade/results.glade.h:4
+#: ../data/glade/results.glade.h:6
 msgid "Are you sure?"
 msgstr "¿Estás seguro?"
 
@@ -137,11 +137,11 @@ msgstr "¿Estás seguro?"
 msgid "As team"
 msgstr "Como equipo"
 
-#: ../data/glade/humanEsDialog.glade.h:6
+#: ../data/glade/humanEsDialog.glade.h:3
 msgid "As team A"
 msgstr "Como equipo A"
 
-#: ../data/glade/humanEsDialog.glade.h:7
+#: ../data/glade/humanEsDialog.glade.h:4
 msgid "As team B"
 msgstr "Como equipo B"
 
@@ -157,7 +157,7 @@ msgstr "No se puede desempatar, gana B"
 msgid "Checking teams..."
 msgstr "Comprobando equipos"
 
-#: ../data/glade/main.glade.h:8
+#: ../data/glade/main.glade.h:3
 msgid "Competitions"
 msgstr "Competiciones"
 
@@ -165,11 +165,11 @@ msgstr "Competiciones"
 msgid "Confirmation"
 msgstr "Confirmación"
 
-#: ../data/glade/contest.glade.h:4
+#: ../data/glade/contest.glade.h:1
 msgid "Contest settings"
 msgstr "Configuraciones de la competición"
 
-#: ../data/glade/main.glade.h:9
+#: ../data/glade/main.glade.h:8
 msgid ""
 "Copyright © 2011 José Tomás Tocino García\n"
 "Copyright © 2009 Pablo Recio Quijano\n"
@@ -182,20 +182,20 @@ msgstr ""
 "original)"
 
 #: ../resistencia/gui/tests_dialog.py:153
-#: ../resistencia/gui/contest_dialog.py:114 ../data/glade/testDialog.glade.h:4
-#: ../data/glade/humanEsDialog.glade.h:8
+#: ../resistencia/gui/contest_dialog.py:114
+#: ../data/glade/humanEsDialog.glade.h:8 ../data/glade/testDialog.glade.h:4
 msgid "Description"
 msgstr "Descripción"
 
-#: ../data/glade/quickGame.glade.h:6
+#: ../data/glade/quickGame.glade.h:13
 msgid "Description of team A"
 msgstr "Descripción del equipo A"
 
-#: ../data/glade/quickGame.glade.h:7
+#: ../data/glade/quickGame.glade.h:17
 msgid "Description of team B"
 msgstr "Descripción del equipo B"
 
-#: ../data/glade/quickGame.glade.h:8 ../data/glade/humanEsDialog.glade.h:9
+#: ../data/glade/humanEsDialog.glade.h:12 ../data/glade/quickGame.glade.h:20
 msgid "Don't save the game"
 msgstr "No guardar la partida"
 
@@ -203,15 +203,15 @@ msgstr "No guardar la partida"
 msgid "Draw"
 msgstr "Empate "
 
-#: ../data/glade/testResults.glade.h:2
+#: ../data/glade/testResults.glade.h:5
 msgid "Draws:"
 msgstr "Empata "
 
-#: ../data/glade/quickGame.glade.h:9 ../data/glade/humanEsDialog.glade.h:10
+#: ../data/glade/humanEsDialog.glade.h:14 ../data/glade/quickGame.glade.h:6
 msgid "Error finded"
 msgstr "Error encontrado"
 
-#: ../data/glade/quickGame.glade.h:10 ../data/glade/humanEsDialog.glade.h:11
+#: ../data/glade/humanEsDialog.glade.h:15 ../data/glade/quickGame.glade.h:7
 msgid "Error parsing a file"
 msgstr "Error leyendo un fichero"
 
@@ -226,7 +226,7 @@ msgstr "Error leyendo un fichero"
 msgid "Error parsing the file "
 msgstr "Error al analizar el fichero"
 
-#: ../data/glade/results.glade.h:6
+#: ../data/glade/results.glade.h:9
 msgid "Final round"
 msgstr "Última ronda"
 
@@ -235,16 +235,16 @@ msgstr "Última ronda"
 msgid "Formation"
 msgstr "Formación"
 
-#: ../data/glade/testDialog.glade.h:5
+#: ../data/glade/testDialog.glade.h:3
 msgid "Formation file"
 msgstr "Archivo de formación"
 
-#: ../data/glade/main.glade.h:12
+#: ../data/glade/main.glade.h:1
 msgid "Gades Siege"
 msgstr "Gades Siege"
 
-#: ../data/glade/quickGame.glade.h:11
-msgid "Hide pieces's values"
+#: ../data/glade/quickGame.glade.h:22
+msgid "Hide piece values"
 msgstr "Esconder el valor de las piezas"
 
 #: ../data/glade/results.glade.h:7
@@ -263,25 +263,25 @@ msgstr "Directorio inválido"
 msgid "King died"
 msgstr "Rey muerto"
 
-#: ../data/glade/contest.glade.h:5
+#: ../data/glade/contest.glade.h:3
 msgid "Knockout playoff"
 msgstr ""
 "Copa:\n"
 "eliminatoria directa por partido"
 
-#: ../data/glade/main.glade.h:13
+#: ../data/glade/main.glade.h:5
 msgid "Laboratory"
 msgstr "Laboratorio"
 
-#: ../data/glade/testResults.glade.h:3
+#: ../data/glade/testResults.glade.h:4
 msgid "Looses:"
 msgstr "Partidas perdidas:"
 
-#: ../data/glade/contest.glade.h:6
+#: ../data/glade/contest.glade.h:11
 msgid "Main configuration"
 msgstr "Configuración principal"
 
-#: ../data/glade/testResults.glade.h:4
+#: ../data/glade/testResults.glade.h:8
 msgid "Max value piece dies at turn:"
 msgstr "La pieza de mas valor muere en el turno:"
 
@@ -298,11 +298,11 @@ msgstr "Sin comentarios"
 msgid "Not enough teams to hold the competition. Aborting."
 msgstr "No hay suficientes equipos para celebrar la competición. Abortando."
 
-#: ../data/glade/testResults.glade.h:5
+#: ../data/glade/testResults.glade.h:2
 msgid "Number of games:"
 msgstr "Numero de juegos:"
 
-#: ../resistencia/gui/round_results.py:72 ../resistencia/tests/tests.py:90
+#: ../resistencia/tests/tests.py:90 ../resistencia/gui/round_results.py:72
 msgid "Number of pieces"
 msgstr "Número de piezas"
 
@@ -314,13 +314,13 @@ msgstr "Número de puntos"
 msgid "Number of repetitions"
 msgstr "Número de repeticiones"
 
-#: ../resistencia/tests/tests.py:89 ../data/glade/quickGame.glade.h:12
-#: ../data/glade/testDialog.glade.h:7 ../data/glade/contest.glade.h:7
-#: ../data/glade/humanEsDialog.glade.h:12
+#: ../resistencia/tests/tests.py:89 ../data/glade/humanEsDialog.glade.h:11
+#: ../data/glade/testDialog.glade.h:7 ../data/glade/contest.glade.h:9
+#: ../data/glade/quickGame.glade.h:19
 msgid "Number of turns"
 msgstr "Número de turnos"
 
-#: ../data/glade/quickGame.glade.h:13
+#: ../data/glade/quickGame.glade.h:21
 msgid "Only result"
 msgstr "Solo los resultados"
 
@@ -332,23 +332,23 @@ msgstr "Solo los resultados"
 msgid "Opponent"
 msgstr "Oponente"
 
-#: ../data/glade/main.glade.h:14
+#: ../data/glade/main.glade.h:4
 msgid "Play against an E.S."
 msgstr "Juega contra un S.E."
 
-#: ../data/glade/humanEsDialog.glade.h:13
+#: ../data/glade/humanEsDialog.glade.h:1
 msgid "Play against an expert system"
 msgstr "Juega contra un sistema experto"
 
-#: ../data/glade/contest.glade.h:9
+#: ../data/glade/contest.glade.h:15
 msgid "Players"
 msgstr "Jugadores"
 
-#: ../data/glade/main.glade.h:15
+#: ../data/glade/main.glade.h:6
 msgid "Previous games"
 msgstr "Partidas antiguas"
 
-#: ../data/glade/main.glade.h:16 ../data/glade/quickGame.glade.h:14
+#: ../data/glade/main.glade.h:2 ../data/glade/quickGame.glade.h:10
 msgid "Quick game"
 msgstr "Partida rápida"
 
@@ -367,20 +367,20 @@ msgstr "Descansa"
 msgid "Result"
 msgstr "Resultado"
 
-#: ../data/glade/resultNotifier.glade.h:1 ../data/glade/quickGame.glade.h:15
-#: ../data/glade/humanEsDialog.glade.h:14
+#: ../data/glade/humanEsDialog.glade.h:18
+#: ../data/glade/resultNotifier.glade.h:2 ../data/glade/quickGame.glade.h:5
 msgid "Result of the game"
 msgstr "Resultados del juego"
 
-#: ../data/glade/resultNotifier.glade.h:2
+#: ../data/glade/resultNotifier.glade.h:1
 msgid "Results"
 msgstr "Resultados"
 
-#: ../data/glade/results.glade.h:9
+#: ../data/glade/results.glade.h:1
 msgid "Results of the round"
 msgstr "Resultados de la ronda"
 
-#: ../data/glade/contest.glade.h:10
+#: ../data/glade/contest.glade.h:2
 msgid "Round-robin league"
 msgstr ""
 "Liga: \n"
@@ -392,7 +392,7 @@ msgstr ""
 msgid "Rules"
 msgstr "Reglas"
 
-#: ../data/glade/testDialog.glade.h:8
+#: ../data/glade/testDialog.glade.h:2
 msgid "Rules file"
 msgstr "Archivo de reglas"
 
@@ -404,57 +404,57 @@ msgstr "Ejecutando la partida..."
 msgid "Running the test"
 msgstr "Ejecutando las pruebas..."
 
-#: ../data/glade/humanEsDialog.glade.h:15
+#: ../data/glade/humanEsDialog.glade.h:9
 msgid "Select a random team"
 msgstr "Seleccionar un equipo al azar"
 
-#: ../data/glade/humanEsDialog.glade.h:16
+#: ../data/glade/humanEsDialog.glade.h:7
 msgid "Select formation for computer team"
 msgstr "Seleccionar formación para la máquina"
 
-#: ../data/glade/quickGame.glade.h:16
+#: ../data/glade/quickGame.glade.h:12
 msgid "Select formation for team A"
 msgstr "Seleccionar formación para el equipo A"
 
-#: ../data/glade/quickGame.glade.h:17
+#: ../data/glade/quickGame.glade.h:16
 msgid "Select formation for team B"
 msgstr "Seleccionar formación para el equipo B"
 
-#: ../data/glade/humanEsDialog.glade.h:17
+#: ../data/glade/humanEsDialog.glade.h:2
 msgid "Select formation for your team"
 msgstr "Seleccionar formación para tu equipo"
 
-#: ../data/glade/tree.glade.h:2
+#: ../data/glade/tree.glade.h:1
 msgid "Select players for the contest"
 msgstr "Seleccionar los jugadores para una competición"
 
-#: ../data/glade/testDialog.glade.h:9 ../data/glade/contest.glade.h:11
-#: ../data/glade/tree.glade.h:3
+#: ../data/glade/testDialog.glade.h:12 ../data/glade/contest.glade.h:17
+#: ../data/glade/tree.glade.h:4
 msgid "Select the formation file"
 msgstr "Selecciona el archivo de formación"
 
-#: ../data/glade/testDialog.glade.h:10 ../data/glade/contest.glade.h:12
-#: ../data/glade/tree.glade.h:4
+#: ../data/glade/testDialog.glade.h:13 ../data/glade/contest.glade.h:16
+#: ../data/glade/tree.glade.h:3
 msgid "Select the rules file"
 msgstr "Selecciona el archivo de reglas"
 
-#: ../data/glade/main.glade.h:17
+#: ../data/glade/main.glade.h:7
 msgid "Settings"
 msgstr "Configuración"
 
-#: ../data/glade/settingsDialog.glade.h:5
+#: ../data/glade/settingsDialog.glade.h:1
 msgid "Settings - Cadiz deffense: 1812"
 msgstr "Configuración - Resistencia en Cádiz: 1812"
 
-#: ../data/glade/humanEsDialog.glade.h:18
+#: ../data/glade/humanEsDialog.glade.h:6
 msgid "System Expert for computer team"
 msgstr "Reglas para la máquina"
 
-#: ../data/glade/quickGame.glade.h:18
+#: ../data/glade/quickGame.glade.h:11
 msgid "System Expert for team A"
 msgstr "Reglas para el equipo A"
 
-#: ../data/glade/quickGame.glade.h:19
+#: ../data/glade/quickGame.glade.h:15
 msgid "System Expert for team B"
 msgstr "Reglas para el equipo B"
 
@@ -476,11 +476,11 @@ msgstr "Nombre del equipo"
 msgid "Teams"
 msgstr "Equipos"
 
-#: ../data/glade/testDialog.glade.h:11
+#: ../data/glade/testDialog.glade.h:1
 msgid "Tests expert system"
 msgstr "Pruebas del sistema experto"
 
-#: ../data/glade/testResults.glade.h:6
+#: ../data/glade/testResults.glade.h:1
 msgid "Tests results for team @team@"
 msgstr "Resultado de las pruebas para el equipo @team@"
 
@@ -568,15 +568,15 @@ msgstr "Turno cuando muere la pieza de máximo valor"
 msgid "Turns used to lose:"
 msgstr "Turnos en los que pierdes"
 
-#: ../data/glade/testResults.glade.h:8
+#: ../data/glade/testResults.glade.h:6
 msgid "Turns used to win:"
 msgstr "Turnos en los que ganas"
 
-#: ../data/glade/contest.glade.h:13
+#: ../data/glade/contest.glade.h:7
 msgid "Two legs"
 msgstr "Ida y vuelta"
 
-#: ../data/glade/contest.glade.h:14
+#: ../data/glade/contest.glade.h:4
 msgid ""
 "Two stages tournament:\n"
 "league + playoff"
@@ -584,11 +584,11 @@ msgstr ""
 "Torneo mixto: \n"
 "Primero una liga, luego una copa"
 
-#: ../data/glade/testDialog.glade.h:12 ../data/glade/contest.glade.h:16
+#: ../data/glade/testDialog.glade.h:8 ../data/glade/contest.glade.h:13
 msgid "Use all teams installed"
 msgstr "Usar todos los equipos instalados"
 
-#: ../data/glade/testDialog.glade.h:13 ../data/glade/contest.glade.h:17
+#: ../data/glade/testDialog.glade.h:9 ../data/glade/contest.glade.h:14
 msgid "Use default formations"
 msgstr "Usar formaciones por defecto"
 
@@ -596,11 +596,11 @@ msgstr "Usar formaciones por defecto"
 msgid "Value of the pieces"
 msgstr "Valor de las piezas"
 
-#: ../data/glade/testResults.glade.h:9
+#: ../data/glade/testResults.glade.h:3
 msgid "Wins:"
 msgstr "Partidas ganadas:"
 
-#: ../data/glade/humanEsDialog.glade.h:19
+#: ../data/glade/humanEsDialog.glade.h:21
 msgid "You have no selected any file for your team"
 msgstr "No ha seleccionado ningún fichero para tu equipo"
 
@@ -608,11 +608,11 @@ msgstr "No ha seleccionado ningún fichero para tu equipo"
 msgid "You have no selected file for the Expert System"
 msgstr "No ha seleccionado el fichero de reglas"
 
-#: ../data/glade/quickGame.glade.h:20
+#: ../data/glade/quickGame.glade.h:1
 msgid "You have no selected file for the Expert System A"
 msgstr "No ha seleccionado el fichero de reglas para el equipo A"
 
-#: ../data/glade/quickGame.glade.h:21
+#: ../data/glade/quickGame.glade.h:3
 msgid "You have no selected file for the Expert System B"
 msgstr "No ha seleccionado el fichero de reglas para el equipo B"
 
@@ -620,19 +620,19 @@ msgstr "No ha seleccionado el fichero de reglas para el equipo B"
 msgid "You have no selected file for the Team"
 msgstr "No ha seleccionado el fichero de formación"
 
-#: ../data/glade/quickGame.glade.h:22
+#: ../data/glade/quickGame.glade.h:2
 msgid "You have no selected file for the Team A"
 msgstr "No ha seleccionado el fichero de formación para el equipo A"
 
-#: ../data/glade/humanEsDialog.glade.h:20
+#: ../data/glade/humanEsDialog.glade.h:19
 msgid "You have no selected file for the computer's Expert System"
 msgstr "No ha seleccionado el fichero de reglas para la máquina"
 
-#: ../data/glade/humanEsDialog.glade.h:21
+#: ../data/glade/humanEsDialog.glade.h:20
 msgid "You have no selected file for the computer's team"
 msgstr "No ha seleccionado el fichero de reglas para la máquina"
 
-#: ../data/glade/quickGame.glade.h:23
+#: ../data/glade/quickGame.glade.h:4
 msgid "You have no selected file for the team B"
 msgstr "No ha seleccionado el fichero de formación para el equipo B"
 
