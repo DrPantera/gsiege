@@ -530,7 +530,7 @@
                         </child>
                         <child>
                           <object class="GtkCheckButton" id="check_hide_values">
-                            <property name="label" translatable="yes">Hide pieces's values</property>
+                            <property name="label" translatable="yes">Hide piece values</property>
                             <property name="visible">True</property>
                             <property name="can_focus">True</property>
                             <property name="receives_default">False</property>
