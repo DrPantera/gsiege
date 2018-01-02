@@ -1,18 +1,21 @@
 ![LogoBig.png](LogoBig.png)
 
-**Gades Siege** is an expanded version of the [Resistencia en Cádiz: 1812](https://forja.rediris.es/projects/cusl4-res-cadiz/) project by Pablo Recio. GadesSiege is a learning environment for rule-based expert systems, using a board game in a competitive format.
+**Gades Siege** is an expanded version of the [Resistencia en Cádiz: 1812](https://forja.rediris.es/projects/cusl4-res-cadiz/) (now archived [here](ftp://ftp.rediris.com/sites/forja.rediris.es/forja/cusl4-res-cadiz/cusl4-res-cadiz/)) project by Pablo Recio. Gades Siege is a learning environment for rule-based expert systems, using a board game in a competitive format.
 
 Gades Siege was part of the teaching innovation project _"La competitividad y el análisis crítico en la evaluación"_ (CIE44) at the [University of Cádiz](http://uca.es/) (Spain).
 
 Development was also funded by the 2010 edition of the teaching innovation project call, titled _"Convocatoria 2010 de Proyectos de Innovación Educativa Universitaria para el PDI de la Universidad de Cádiz"_.
 
 ## Useful links ##
-  * [Use of Gades Siege in classrooms](classrooms.md)
-  * [Installation instructions](installation.md)
+  * [Installation instructions](installation.html)
+  * [Manual](manual.html)
+  * [Team design](teamdesign.html)
+  * [Example rules](examplerules.html)
+  * [Use of Gades Siege in classrooms](classrooms.html)
 
 ## Screenshots ##
 
-More screenshots are available [here](screenshots.md)
+More screenshots are available [here](screenshots.html).
 
 ![reproduciendo1.jpg](reproduciendo1.jpg)
 

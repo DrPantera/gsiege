@@ -1,0 +1,8 @@
+*.pyc
+*~
+clipsOutputFile
+log_gsiege
+data/configuration.xml
+data/games
+docs/_site
+docs/Gemfile.lock
