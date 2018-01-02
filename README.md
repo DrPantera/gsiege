@@ -1,0 +1,6 @@
+# gsiege
+Automatically exported from code.google.com/p/gsiege
+
+Gades Siege is a specially designed free software tool that provides a common environment where different strategies coded using rule-based expert systems compete against each other. The system models a square board in which players have a partial knowledge of the world (i.e., there is no “perfect strategy” to play the board-game). Using this application, the students can program and test their expert system rule sets against other rule sets or human players. After competing in a league, students can improve their systems before participating in a play-off tournament. This way, the students can develop the skill of critically analyzing the strategy they have implemented.
+
+Additionally, besides programming a strategy, students have to read source code written by their classmates and bet a part of their grades on other teams. This way, they review source code written by other programmers, which is a very valuable skill in the professional world. At the same time, students that are not so proficient in coding are still rewarded if they can do a good analysis of the source code written by others by identifying the future winner of the competition.
