@@ -25,3 +25,4 @@ More screenshots are available [here](screenshots.html).
   * [Betting system for formative code review in educational competitions](http://www.sciencedirect.com/science/article/pii/S0957417413007513), Expert Systems with Applications
   * [Competitive evaluation in a video game development course](http://dl.acm.org/citation.cfm?id=2325371) Annual Conference on Innovation and Technology in Computer Science Education
   * [Evaluación competitiva en el desarrollo de videojuegos](http://avanza.uca.es/evaltrends/images/stories/libros/LibroeradigDEF.pdf) EvalTrends
+
